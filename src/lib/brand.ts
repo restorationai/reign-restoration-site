@@ -58,7 +58,7 @@ export const brand = {
   // Operator-confirmed "licensed & insured" attestation from plan-input.json —
   // lets the TrustStrip show the badge before a license number is on file.
   licensedInsuredAttested: false as boolean,
-  certifications: ["IICRC WRT (WATER)", "IICRC CERTIFIED FIRM", "IICRC AMRT (MOLD)", "IICRC FSRT (FIRE & SMOKE)"] as string[],
+  certifications: ["IICRC WRT (Water)", "IICRC Certified Firm", "IICRC AMRT (Mold)", "IICRC FSRT (Fire & Smoke)"] as string[],
   trustBadges: ["IICRC Certified Firm", "Licensed & Insured", "24/7 Emergency Service", "Locally Owned & Operated"] as string[],
   jobPhotos: [] as string[],
   sameAsUrls: ["https://maps.google.com/maps?cid=14377718436563742188", "https://www.yelp.com/biz/reign-restoration-royse-city", "https://www.facebook.com/61591068899558/", "https://www.bing.com/maps?ss=ypid.YN8BC576B5532C1A42", "https://homeguide.com/tx/rockwall/water-damage-restoration/reign-restoration-tZsy5e6u9"] as string[],
