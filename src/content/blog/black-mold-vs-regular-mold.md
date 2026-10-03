@@ -16,6 +16,7 @@ faq: [{"question": "Can I test for black mold myself without hiring a lab?", "an
 published_at: "2026-07-21"
 services: ["mold-remediation"]
 rendered: true
+author: "Jerrott Gray"
 ---
 Most mold is not black mold, and most black-colored mold is not the toxic species everyone fears. Here is the short answer: *Stachybotrys chartarum*, the mold commonly called "black mold," is one specific species with a distinctive dark greenish-black color and a slimy texture. The fuzzy gray patch on your bathroom grout is almost certainly something else, Cladosporium, Aspergillus, or Penicillium are far more common household molds. That said, no mold growing inside your home is harmless, and the only way to know exactly what you are dealing with is professional testing. What you can do right now is learn what to look for.
 

@@ -17,6 +17,7 @@ faq: [{"question": "Why did this water damage rebuild take 10 months?", "answer"
 published_at: "2026-09-29"
 services: []
 rendered: true
+author: "Jerrott Gray"
 ---
 Some water damage jobs wrap up in a week: extract, dry, replace a few boards of drywall, done. Others are a different animal entirely. When a loss is bad enough to gut rooms down to the studs, the job stops being a restoration job and becomes a rebuild, with a general contractor coordinating a whole rotation of trades over months, not days. That's the situation one homeowner, Walter, was in when his home suffered major water damage.
 

@@ -16,6 +16,7 @@ faq: [{"question": "How long does fire damage restoration typically take?", "ans
 published_at: "2026-07-28"
 services: ["fire-damage-restoration", "smoke-damage-restoration"]
 rendered: true
+author: "Jerrott Gray"
 ---
 Fire damage rarely stops when the flames do. The restoration process typically unfolds in six stages, emergency securing, smoke and soot removal, water extraction (from firefighting efforts), structural drying, odor elimination, and reconstruction, and can take anywhere from a few days for a contained kitchen fire to several months for a whole-house loss. Understanding each stage helps you ask the right questions, push back on shortcuts, and know when the job is actually finished.
 

@@ -17,6 +17,7 @@ faq: [{"question": "How much does water damage restoration cost?", "answer": "Wa
 published_at: "2026-10-02"
 services: ["water-damage-restoration", "general-contracting"]
 rendered: true
+author: "Jerrott Gray"
 ---
 **TL;DR:** Water damage restoration typically runs $1,200 to $4,500 for a single room with clean water, and $5,000 to $10,000 or more for a multi-room loss with contaminated water or structural drying. The final number depends on the water category (how contaminated it is), the class of drying (how much material got wet), and whether reconstruction is needed after mitigation. Most homeowners insurance policies cover sudden water damage, but mitigation and reconstruction are billed, and often covered, as two separate line items.
 

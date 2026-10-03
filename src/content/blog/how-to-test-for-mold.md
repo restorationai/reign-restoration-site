@@ -16,6 +16,7 @@ faq: [{"question": "Can a DIY mold test kit tell me if I have black mold specifi
 published_at: "2026-07-21"
 services: ["mold-remediation", "mold-inspection-testing"]
 rendered: true
+author: "Jerrott Gray"
 ---
 If you've spotted a dark stain on drywall, noticed a musty smell that won't leave, or had a slow leak behind a wall for longer than 48 hours, you're right to wonder whether mold has moved in. The short answer: a DIY test kit can confirm that mold spores are present in the air, but it cannot tell you what species you're dealing with, where the colony is growing, or how large it is. A professional inspection does all three, and that distinction matters when you're deciding whether to clean a small patch yourself or call in a remediation crew.
 

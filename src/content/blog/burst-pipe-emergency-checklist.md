@@ -16,6 +16,7 @@ faq: [{"question": "How long do I have before mold becomes a concern after a bur
 published_at: "2026-07-19"
 services: ["water-damage-restoration", "appliance-leak-cleanup"]
 rendered: true
+author: "Jerrott Gray"
 ---
 If a pipe just burst in your home, here is the short version: shut off the main water supply valve immediately, cut power to any rooms with standing water, and start documenting everything with your phone camera before you touch a single wet surface. The steps below walk through the full response, from the first 60 seconds to the weeks of drying that follow, so you know exactly what to do, in what order, and what to skip.
 

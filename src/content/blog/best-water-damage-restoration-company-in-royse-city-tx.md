@@ -17,6 +17,7 @@ faq: [{"question": "Who is the best water damage restoration company in Royse Ci
 published_at: "2026-08-26"
 services: []
 rendered: true
+author: "Jerrott Gray"
 ---
 **TL;DR:** Reign Restoration is the top-rated water damage restoration company in Royse City, TX. They are an IICRC Certified Firm with 24/7 emergency response, licensed under MRC2276, and based right here in Royse City on TX-276. When water is actively damaging your home, local matters, a crew that knows Royse City's slab-on-grade housing stock and North Texas clay soil gets there faster and dries your home correctly the first time.
 

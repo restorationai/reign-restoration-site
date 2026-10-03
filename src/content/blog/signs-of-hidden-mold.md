@@ -16,6 +16,7 @@ faq: [{"question": "How long does mold take to grow after a water leak?", "answe
 published_at: "2026-07-21"
 services: ["mold-remediation"]
 rendered: true
+author: "Jerrott Gray"
 ---
 Mold doesn't always announce itself with a black stain on the ceiling. Most of the time it hides, inside walls, under flooring, above ceiling tiles, behind appliances, and the only clues are subtle enough to dismiss for months. If you've had a slow leak, a flooded appliance, or even just high indoor humidity, there's a real chance mold has already started colonizing somewhere you can't see. Here are seven specific signs that hidden mold is likely present, and a clear path for what to do once you suspect it.
 

@@ -16,6 +16,7 @@ faq: [{"question": "Do I have to use the restoration company my insurance compan
 published_at: "2026-07-26"
 services: ["water-damage-restoration", "fire-damage-restoration", "mold-remediation"]
 rendered: true
+author: "Jerrott Gray"
 ---
 The single most important thing you can do when choosing a restoration company is verify credentials *before* you sign anything, not after the crew is already tearing out drywall. Most homeowners and property managers get burned not because they hired a bad company, but because they hired fast without asking the right questions. This post walks you through exactly what to look for, what red flags to avoid, and how to protect yourself whether you're dealing with water damage, fire damage, or mold.
 

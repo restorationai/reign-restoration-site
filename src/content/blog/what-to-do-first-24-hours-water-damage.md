@@ -16,6 +16,7 @@ faq: [{"question": "How do I know if water got inside my walls after a leak?", "
 published_at: "2026-07-31"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Jerrott Gray"
 ---
 If water is actively flooding your home right now, stop the source first: find your main water shutoff valve (usually near the front foundation wall, in a utility closet, or at the street meter) and turn it off. Then cut power to any rooms with standing water at the breaker panel before you step inside. Those two steps, stop the water, kill the electricity, are the most important things you can do in the first five minutes. Everything after that is about limiting how much damage spreads in the hours that follow.
 

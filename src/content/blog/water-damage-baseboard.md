@@ -17,6 +17,7 @@ faq: [{"question": "Is swollen baseboard always a sign of water damage?", "answe
 published_at: "2026-09-24"
 services: ["water-damage-restoration", "mold-remediation", "general-contracting"]
 rendered: true
+author: "Jerrott Gray"
 ---
 **TL;DR:** Swollen, buckled, or dark-stained baseboard almost always means water has been sitting inside the wall cavity behind it. MDF trim absorbs moisture fast and shows damage before drywall does, making it a reliable early warning sign. The real question is where the water came from and how far it has traveled. A restoration crew will remove the trim, drill the wall cavity, and measure moisture levels before deciding whether a flood cut or targeted drying is the right fix.
 

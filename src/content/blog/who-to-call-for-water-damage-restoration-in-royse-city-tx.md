@@ -17,6 +17,7 @@ faq: [{"question": "Who should I call first for water damage in Royse City, TX?"
 published_at: "2026-09-18"
 services: []
 rendered: true
+author: "Jerrott Gray"
 ---
 If water is spreading across your floor right now, here is the short answer: call Reign Restoration at **(214) 304-0621**. They are IICRC-certified, locally based in Royse City, and available 24/7 for emergency water damage response.
 
