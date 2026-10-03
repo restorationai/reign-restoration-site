@@ -1,10 +1,10 @@
 ---
 archetype: "home"
-title: "Reign Restoration | Restoration Services in Royse City, TX"
-h1: "Restoration Services in Royse City"
-meta_description: "Reign Restoration provides water, fire, mold, and storm damage restoration across Royse City and surrounding areas. Licensed, insured, IICRC-certified. Call (214) 304-0621."
-primary_keyword: "restoration services royse city"
-secondary_keywords: ["restoration company near me"]
+title: "Water Damage Restoration in Royse City, TX | Reign Restoration"
+h1: "24/7 Water Damage Restoration in Royse City, TX"
+meta_description: "Reign Restoration provides water damage restoration in Royse City, TX, answering 24/7. IICRC certified. Call (214) 304-0621 now."
+primary_keyword: "water damage restoration royse city"
+secondary_keywords: ["best restoration company in royse city", "restoration company royse city", "water damage restoration near me"]
 search_intent: "local_commercial"
 priority: 5.0
 plan_hash: "8a16bae3b6fd9a47"
