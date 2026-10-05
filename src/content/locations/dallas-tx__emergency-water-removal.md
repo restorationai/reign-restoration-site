@@ -17,7 +17,7 @@ area_slug: "dallas-tx"
 service_slug: "emergency-water-removal"
 city: "Dallas"
 state: "TX"
-service_display: "emergency-water-removal"
+service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
 **Standing water in your Dallas home or business right now?** Reign Restoration answers 24/7, and our trucks run water extraction equipment built for the specific way Dallas floods, whether that is a burst supply line in a Lakewood Tudor on pier-and-beam or a slab leak under a Lake Highlands ranch. Blackland clay swells and shrinks hard here, and that movement cracks pipes and foundations in ways that catch homeowners off guard long after the storm has passed.
