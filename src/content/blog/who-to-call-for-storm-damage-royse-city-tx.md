@@ -51,7 +51,7 @@ This is why it's worth calling one contractor who runs both [storm damage restor
 
 ## What happens after you call?
 
-After the call, a crew dispatches to stop the water entry first, tarp or board the opening, then move into interior extraction and moisture mapping while photographing everything for the insurance file. That documentation matters: the [Texas Department of Insurance](https://www.tdi.texas.gov/tips/storm-damage.html) notes that photos and a written scope of the emergency mitigation work are what keep a storm claim moving instead of stalling on "what actually happened."
+After the call, a crew dispatches to stop the water entry first, tarp or board the opening, then move into interior extraction and moisture mapping while photographing everything for the insurance file. That documentation matters: the [Texas Department of Insurance](https://www.tdi.texas.gov/consumer/disasters.html) notes that photos and a written scope of the emergency mitigation work are what keep a storm claim moving instead of stalling on "what actually happened."
 
 Once the structure is dry and the roof scope is written, the adjuster inspects, the claim is approved or adjusted, and the rebuild phase starts: roofing replacement, drywall, flooring, paint, whatever the water or wind took out. A single contractor carrying the file from tarp to final walkthrough means you're not re-explaining the loss to a new company at every stage.
 
