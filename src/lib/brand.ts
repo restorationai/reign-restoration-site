@@ -65,7 +65,7 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "5.0",
-  gbpReviewCount: "27",
+  gbpReviewCount: "26",
   gbpReviews: [
     { author: "Walter", rating: 5, text: "Jerrott was very attentive to our needs during the 10 months that it took to rebuild after major water damage to our home. His subs were good and he actively supervised their work. We'd recommend Reign without any reservations to anyone.", when: "February 2026" },
     { author: "Laura", rating: 5, text: "Efficient, great quality of craftsmanship, exceeded expectations when time to complete work. One of the most sincere, honest and timely communicator!!! Just outstanding all around.", when: "January 2026" },
