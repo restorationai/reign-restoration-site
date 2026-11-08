@@ -1,6 +1,6 @@
 ---
 archetype: "service-areas-hub"
-title: "Service Areas | Reign Restoration Restoration"
+title: "Service Areas | Reign Restoration"
 h1: "Areas We Serve"
 meta_description: "Reign Restoration provides restoration services across Royse City and the surrounding region. Find your city."
 primary_keyword: "reign restoration service areas"
