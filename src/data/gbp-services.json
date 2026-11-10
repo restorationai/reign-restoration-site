@@ -71,5 +71,8 @@
     "Water Mitigation",
     "Wet Drywall Repair",
     "Wood Floor Water Damage Repair"
+  ],
+  "water-heater-flood-cleanup": [
+    "Appliance Leak Cleanup"
   ]
 }
