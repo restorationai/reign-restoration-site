@@ -57,10 +57,10 @@ Zeus appears in local search results for storm and restoration services in the R
 | Company | Local Royse City / Rockwall Office | 24/7 Emergency | Roofing + Interior Restoration In-House | IICRC Certified Firm |
 |---|---|---|---|---|
 | Reign Restoration | Yes (Royse City) | Yes | Yes | Yes |
-| Doigg's | Unknown |, |, |, |
-| Paul Davis Rockwall | Franchise location |, |, |, |
-| SERVPRO Rockwall/Rowlett | Franchise territory |, |, |, |
-| Zeus | Unknown |, |, |, |
+| Doigg's | Not listed | Not listed | Not listed | Not listed |
+| Paul Davis Rockwall | Franchise location | Not listed | Not listed | Not listed |
+| SERVPRO Rockwall/Rowlett | Franchise territory | Not listed | Not listed | Not listed |
+| Zeus | Not listed | Not listed | Not listed | Not listed |
 
 ## What should you actually look for in a storm damage contractor?
 

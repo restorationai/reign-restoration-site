@@ -31,10 +31,10 @@ Here is how all four companies stack up:
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
-| Reign Restoration |, |, | Yes | Yes (Certified Firm, WRT) |
-| Paul Davis Emergency Services of Rockwall | 4.9 | 85 |, |, |
-| PuroClean of Rockwall | 5.0 | 30 |, |, |
-| SERVPRO of NE Collin County/Greenville | 4.9 | 172 |, |, |
+| Reign Restoration | 5.0 | 26 | Yes | Yes (Certified Firm, WRT) |
+| Paul Davis Emergency Services of Rockwall | 4.9 | 85 | Not listed | Not listed |
+| PuroClean of Rockwall | 5.0 | 30 | Not listed | Not listed |
+| SERVPRO of NE Collin County/Greenville | 4.9 | 172 | Not listed | Not listed |
 
 ---
 
