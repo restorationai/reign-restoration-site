@@ -75,6 +75,8 @@ export const brand = {
   trustBadges: ["IICRC Certified Firm", "Licensed & Insured", "24/7 Emergency Service", "Locally Owned & Operated"] as string[],
   jobPhotos: [] as string[],
   sameAsUrls: ["https://www.facebook.com/61591068899558/", "https://maps.google.com/maps?cid=14377718436563742188", "https://www.bing.com/maps?ss=ypid.YN8BC576B5532C1A42", "https://homeguide.com/tx/rockwall/water-damage-restoration/reign-restoration-tZsy5e6u9"] as string[],
+  credentials: [{"name": "Contractor License", "kind": "license", "number": "MRC2276", "state": "TX", "url": "https://www.tdlr.texas.gov/LicenseSearch/", "holder": "company"}, {"name": "IICRC WRT (Water)", "kind": "certification", "authority": "IICRC", "holder": "technicians", "course": "WRT"}, {"name": "IICRC Certified Firm", "kind": "certification", "authority": "IICRC", "holder": "company"}, {"name": "IICRC AMRT (Mold)", "kind": "certification", "authority": "IICRC", "holder": "technicians", "course": "AMRT"}, {"name": "IICRC FSRT (Fire & Smoke)", "kind": "certification", "authority": "IICRC", "holder": "technicians", "course": "FSRT"}] as { name: string; kind: string; number?: string; authority?: string; url?: string; since?: string; state?: string; holder?: string; course?: string }[],
+  credentialsLine: [{"text": "Licensed in TX (#MRC2276)"}, {"text": "IICRC-certified technicians (WRT, AMRT, FSRT)"}, {"text": "IICRC Certified Firm"}] as { text: string; url?: string }[],
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "5.0",
